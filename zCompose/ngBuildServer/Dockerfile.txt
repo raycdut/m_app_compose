@@ -1,4 +1,0 @@
-FROM teracy/angular-cli
-MAINTAINER Chen,S
-COPY 
-
